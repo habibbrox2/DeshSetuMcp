@@ -33,7 +33,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
   "mcpServers": {
     "DeshSubDispatch": {
       "type": "http",
-      "url": "https://deshdsp.fly.dev/mcp"
+      "url": "https://deshsetumcp.mcphosting.app/mcp"
     }
   }
 }
@@ -76,7 +76,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
   "mcpServers": {
     "DeshSubDispatch": {
       "type": "http",
-      "url": "https://deshdsp.fly.dev/mcp"
+      "url": "https://deshsetumcp.mcphosting.app/mcp"
     }
   }
 }
@@ -89,7 +89,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
   "mcpServers": {
     "DeshSubDispatch": {
       "type": "http",
-      "url": "https://deshdsp.fly.dev/mcp"
+      "url": "https://deshsetumcp.mcphosting.app/mcp"
     }
   }
 }
@@ -102,7 +102,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
   "mcpServers": {
     "DeshSubDispatch": {
       "type": "http",
-      "url": "https://deshdsp.fly.dev/mcp"
+      "url": "https://deshsetumcp.mcphosting.app/mcp"
     }
   }
 }
@@ -115,7 +115,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
   "mcpServers": {
     "DeshSubDispatch": {
       "type": "http",
-      "url": "https://deshdsp.fly.dev/mcp"
+      "url": "https://deshsetumcp.mcphosting.app/mcp"
     }
   }
 }
@@ -129,7 +129,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
     "DeshSubDispatch": {
       "server": {
         "type": "http",
-        "url": "https://deshdsp.fly.dev/mcp"
+        "url": "https://deshsetumcp.mcphosting.app/mcp"
       }
     }
   }
@@ -143,7 +143,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
   "mcpServers": {
     "DeshSubDispatch": {
       "type": "http",
-      "url": "https://deshdsp.fly.dev/mcp"
+      "url": "https://deshsetumcp.mcphosting.app/mcp"
     }
   }
 }
@@ -156,7 +156,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
   "mcpServers": {
     "DeshSubDispatch": {
       "type": "http",
-      "url": "https://deshdsp.fly.dev/mcp"
+      "url": "https://deshsetumcp.mcphosting.app/mcp"
     }
   }
 }
@@ -169,7 +169,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
   "mcpServers": {
     "DeshSubDispatch": {
       "type": "http",
-      "url": "https://deshdsp.fly.dev/mcp"
+      "url": "https://deshsetumcp.mcphosting.app/mcp"
     }
   }
 }
@@ -182,7 +182,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
   "mcpServers": {
     "DeshSubDispatch": {
       "type": "http",
-      "url": "https://deshdsp.fly.dev/mcp"
+      "url": "https://deshsetumcp.mcphosting.app/mcp"
     }
   }
 }
@@ -195,7 +195,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
   "mcpServers": {
     "DeshSubDispatch": {
       "type": "http",
-      "url": "https://deshdsp.fly.dev/mcp"
+      "url": "https://deshsetumcp.mcphosting.app/mcp"
     }
   }
 }
@@ -208,7 +208,7 @@ The hosted endpoint is open by default. No API key, no signup, no payment requir
   "mcpServers": {
     "DeshSubDispatch": {
       "type": "http",
-      "url": "https://deshdsp.fly.dev/mcp"
+      "url": "https://deshsetumcp.mcphosting.app/mcp"
     }
   }
 }
@@ -256,7 +256,7 @@ HTTP mode is **open by default**: `/mcp`, `/sse` and `/messages` work without an
 
 | Endpoint | URL |
 |----------|-----|
-| MCP | `https://deshdsp.fly.dev/mcp` |
+| MCP | `https://deshsetumcp.mcphosting.app/mcp` |
 | Health | `https://deshdsp.fly.dev/health` |
 | Homepage | `https://deshdsp.fly.dev` |
 | GitHub Pages | `https://habibbrox2.github.io/desh-sub-dispatch-mcp/` |
